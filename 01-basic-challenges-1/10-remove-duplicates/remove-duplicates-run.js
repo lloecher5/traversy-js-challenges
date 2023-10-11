@@ -18,3 +18,5 @@ const result = removeDuplicates([
 ]);
 
 console.log(result);
+
+console.log(removeDuplicates([1, 2, 3, 2, 4, 1, 5]))
